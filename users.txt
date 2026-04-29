@@ -1,0 +1,10 @@
+anna.mueller=Anna Müller
+bettina.schmidt=Bettina Schmidt
+claudia.wagner=Claudia Wagner
+dorothee.becker=Dorothee Becker
+eva.hoffmann=Eva Hoffmann
+franziska.schulz=Franziska Schulz
+gabriele.braun=Gabriele Braun
+heike.zimmermann=Heike Zimmermann
+ines.krause=Ines Krause
+julia.hartmann=Julia Hartmann
