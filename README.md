@@ -12,6 +12,11 @@ CSV files.
 > Code comments and the UI are in German, as the app was built for a German-speaking
 > audience. The structure is simple enough to adapt to other languages.
 
+## Screenshots
+
+![Entry form](screenshots/tabkeeper2.png)
+![Consumption overview](screenshots/tabkeeper1.png)
+
 ---
 
 ## Requirements

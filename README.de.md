@@ -10,6 +10,11 @@ Die Person, die den Überblick über Getränke und Abrechnung behielt, wurde lie
 Geschrieben in Go, ohne Datenbank, ohne Framework – nur ein einzelnes Binary und
 ein paar CSV-Dateien.
 
+## Screenshots
+
+![Eingabeformular](screenshots/tabkeeper2.png)
+![Verbrauchsübersicht](screenshots/tabkeeper1.png)
+
 ---
 
 ## Voraussetzungen
