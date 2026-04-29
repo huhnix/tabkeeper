@@ -188,7 +188,7 @@ func formatEuro(value float64) string {
 }
 
 const abrechnungUser = "schluckwartin"
-const abrechnungPass = "abc,123456"
+const abrechnungPass = "geheim123"
 
 func basicAuth(next http.HandlerFunc) http.HandlerFunc {
     return func(w http.ResponseWriter, r *http.Request) {
