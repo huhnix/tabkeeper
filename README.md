@@ -2,7 +2,7 @@
 A lightweight web app for tracking drinks and snacks at events: log
 consumption, view stats, and generate a final bill.
 
-Originally built for the **Texttreff Wochenende (TTWW)**, a German women's writing
+Originally built for the **Texttreff Workshop Wochenende (TTWW)**, a German women's writing
 retreat. The person in charge of drinks and the tab was lovingly called the
 *Schluckwartin* – hence the app.
 
