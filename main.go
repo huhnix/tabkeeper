@@ -418,8 +418,8 @@ fmt.Fprintf(w, `<!DOCTYPE html>
     <span class="close" onclick="closeContactModal()">&times;</span>
     <h2>Kontakt zur Schluckwartin</h2>
     <p>
-      📧 <a href="mailto:post@heikejurzik.de">post@heikejurzik.de</a><br>
-      📞 <a href="tel:+491772780503">+49 177 278 0503</a>
+      📧 <a href="mailto:your@email.com">your@email.com</a><br>
+      📞 <a href="tel:+490000000000">+49 000 000000</a>
     </p>
   </div>
 </div>
