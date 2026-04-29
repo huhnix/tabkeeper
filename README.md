@@ -14,8 +14,6 @@ CSV files.
 
 ## Screenshots
 
-## Screenshots
-
 <img src="screenshots/tabkeeper2.png" width="400" alt="Entry form">
 <img src="screenshots/tabkeeper1.png" width="400" alt="Consumption overview">
 
