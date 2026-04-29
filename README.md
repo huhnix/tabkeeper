@@ -14,8 +14,10 @@ CSV files.
 
 ## Screenshots
 
-![Entry form](screenshots/tabkeeper2.png)
-![Consumption overview](screenshots/tabkeeper1.png)
+## Screenshots
+
+<img src="screenshots/tabkeeper2.png" width="400" alt="Entry form">
+<img src="screenshots/tabkeeper1.png" width="400" alt="Consumption overview">
 
 ---
 

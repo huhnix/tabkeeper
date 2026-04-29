@@ -12,8 +12,10 @@ ein paar CSV-Dateien.
 
 ## Screenshots
 
-![Eingabeformular](screenshots/tabkeeper2.png)
-![Verbrauchsübersicht](screenshots/tabkeeper1.png)
+## Screenshots
+
+<img src="screenshots/tabkeeper2.png" width="400" alt="Eingabeformular">
+<img src="screenshots/tabkeeper1.png" width="400" alt="Verbrauchsübersicht">
 
 ---
 
