@@ -3,7 +3,7 @@
 Eine schlanke Web-App zur Erfassung von Getränken und Snacks bei Veranstaltungen –
 Verbrauch eintragen, individuelle Statistiken anzeigen und am Ende abrechnen.
 
-Entstanden beim **Texttreff Wochenende (TTWW)**, einem Schreibwochenende für Frauen.
+Entstanden beim **Texttreff Workshop Wochenende (TTWW)**, einem Schreibwochenende für Frauen.
 Die Person, die den Überblick über Getränke und Abrechnung behielt, wurde liebevoll
 *Schluckwartin* genannt – daher der Name.
 
